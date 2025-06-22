@@ -18,10 +18,10 @@ You can access the live version of my application on [Streamlit Community Cloud]
 
 ## Features
 
-✅ Predicts loan default risk based on historical data
-⚖️ Handles class imbalance using techniques like undersampling and SMOTE
-🤖 Trains and compares multiple models: Logistic Regression, Random Forest, XGBoost
-📊 Evaluates performance using Accuracy, Precision, Recall, F1-score, Confusion Matrix, and ROC-AUC
+- ✅ Predicts loan default risk based on historical data
+- ⚖️ Handles class imbalance using techniques like undersampling and SMOTE
+- 🤖 Trains and compares multiple models: Logistic Regression, Random Forest, XGBoost
+- 📊 Evaluates performance using Accuracy, Precision, Recall, F1-score, Confusion Matrix, and ROC-AUC
 
 
 
