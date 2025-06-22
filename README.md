@@ -1,14 +1,20 @@
 # Credit-risk-Modeling
 
+
+
 ## Overview
 
 This project presents a machine learning-based solution for credit risk prediction, helping to assess the likelihood of loan default. It builds an end-to-end classification pipeline — from data preprocessing to model training, evaluation, and deployment preparation. The focus is on creating a reliable model that can assist in risk assessment and decision-making.
 
+
+
 ### 🚀 Live Demo
 
-You can access the live version of my application on [Streamlit Community Cloud]([https://credit-risk-modeling-hpfmcxrufhfpexuokmzapv.streamlit.app/]).
+You can access the live version of my application on [Streamlit Community Cloud](https://credit-risk-modeling-hpfmcxrufhfpexuokmzapv.streamlit.app/)
 
 ---
+
+
 
 ## Features
 
